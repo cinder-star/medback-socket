@@ -1,13 +1,31 @@
-# MedSocket #
+# MedSocket
 
-## How to run ##
+## How to
+
+- Installing dependencies
+
+  With yarn:
 
   ```bash
-  pip install -r requirements.txt
+  yarn
   ```
+
+  Or with npm:
 
   ```bash
-  python app.py
+  npm install
   ```
 
-  Your server will run at <http://127.0.0.1:8000/>
+- Running the code
+
+  With yarn:
+
+  ```bash
+  yarn start
+  ```
+
+  Or with npm:
+
+  ```bash
+  npm start
+  ```
